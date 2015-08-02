@@ -17,3 +17,30 @@
 - Game Developer: David, Dave Von D.
 - Credits to: Pio, Mynne Jamaica for the title screen image design
 - NOTE: I do not own any of the spirtes and images that have been used in this game. I believe there will still be bugs but expect that the development of this game will be continous, thus reducting the amount of bugs and adding more features to the game. I'm planning to release this game in public as open source. ~Dave# Game_A
+
+### Other notes
+- A game developed in JAVA v. 1.8.0_45
+- I used netbeans IDE for the development, be sure to import it in the proper directory if you use the same IDE too.
+- I used Tiled for the creation of the map
+- Game sprites are just downloaded to google, you can change them if you wish
+
+### Features (Developer view)
+- Multithreaded (sounds, player, enemy, game progress, etc.. these have their own threads)
+- Double Buffered
+- Object Oriented
+- Collision Detection
+- Score System
+- Save Score System
+- Life System
+- Login System
+- Cheat System
+- Configure System (this only includes: viewing grids and turning on/off background music but you can add more if you want)
+- Objective System
+- Sprite System
+
+### Credits
+- Be sure to give credits to the me(developer) whenever you use this by any means.
+- Recreation of the game is allowed as long as you give credits.
+
+### Tesing
+- To test the game, simply download and open Game_A.jar
