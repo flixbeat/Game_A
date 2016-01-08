@@ -44,3 +44,6 @@
 
 ### Tesing
 - To test the game, simply download and open Game_A.jar
+
+### License
+- [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/)
