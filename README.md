@@ -42,7 +42,7 @@
 - Be sure to give credits to the me(developer) whenever you use this by any means.
 - Recreation of the game is allowed as long as you give credits.
 
-### Tesing
+### Testing
 - To test the game, simply download and open Game_A.jar
 
 ### License
